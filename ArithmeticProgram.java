@@ -14,6 +14,10 @@ public class ArithmeticProgram {
 		int modulus=a%b;
 		System.out.println(div);
 		System.out.println(modulus);
+		System.out.println("Project Updated");
+		System.out.println("Project Updated");
+		System.out.println("Project Updated");
+		System.out.println("Project Updated");
 	}
 
 }
